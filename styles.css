@@ -363,18 +363,18 @@ a{
 }
 
 #project1{
-    background-image: url(/PROJECT/Portfolio-website/Images/projects/Project1.png);
+    background-image: url(/Images/projects/Project1.png);
 }
 #project2{
     margin-left: 120px;
-    background-image: url(/PROJECT/Portfolio-website/Images/projects/Project2.png);
+    background-image: url(./Images/projects/Project2.png);
 }
 #project3{
-    background-image: url(/PROJECT/Portfolio-website/Images/projects/Project3.jpg);
+    background-image: url(./projects/Project3.jpg);
 }
 #project4{
     margin-left: 120px;
-    background-image: url(/PROJECT/Portfolio-website/Images/projects/Project4.jpg);
+    background-image: url(Images/projects/Project4.jpg);
 }
 
 @media (max-width:1300px) {
