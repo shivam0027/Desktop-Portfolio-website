@@ -230,7 +230,7 @@ a{
 
     width: 90%;
     height: 550px;
-    background-image: url(Images/projects/Project1.png);
+    background-image: url(./Images/projects/Project1.png);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -363,18 +363,18 @@ a{
 }
 
 #project1{
-    background-image: url(/Images/projects/Project1.png);
+    background-image: url(./Images/projects/Project1.png);
 }
 #project2{
     margin-left: 120px;
     background-image: url(./Images/projects/Project2.png);
 }
 #project3{
-    background-image: url(./projects/Project3.jpg);
+    background-image: url(./Images/projects/Project3.jpg);
 }
 #project4{
     margin-left: 120px;
-    background-image: url(Images/projects/Project4.jpg);
+    background-image: url(./Images/projects/Project4.jpg);
 }
 
 @media (max-width:1300px) {
